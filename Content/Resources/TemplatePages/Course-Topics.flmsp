@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <MadCap:snippetBlock src="../Snippets/Page-Header.flsnp" />
+        <div class="Body-Content">
+            <MadCap:bodyProxy />
+            <MadCap:eLearningToolbarProxy />
+            <MadCap:topicToolbarProxy style="mc-topic-toolbar-items: ;" />
+        </div>
+    </body>
+</html>
